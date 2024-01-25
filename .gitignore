@@ -1,8 +1,11 @@
+# sass stuff
 .sass-cache/
 *.css.map
 *.sass.map
 *.scss.map
 
+#svelte-kit
+.svelte-kit/
 # Logs
 logs
 *.log
